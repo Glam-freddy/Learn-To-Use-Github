@@ -48,7 +48,8 @@
 | Aditya Oza                                             | Backend Developer        |
 | Piyush Mohite                                          | Web Development          |
 | Reza Alfian                                            | Data Science             |
-| _Your Name_                                            | _Intrests_               |
+|Carroll Connolly                                        | video games and robotics |
+|_Your Name_                                             | _Intrests_               |
  
 
 ### For the README.md file, only the PRs involving changes to the Contributors table would be accepted.
